@@ -1,0 +1,30 @@
+@media(max-width: 1400px){
+    .nav__menu {
+        flex-wrap: wrap;
+    }
+    
+}
+
+@media(max-width: 1200px){
+    
+}
+
+@media(max-width: 992px){
+    
+}
+
+@media(max-width: 768px){
+    
+}
+
+@media(max-width: 576px){
+    
+}
+
+@media(max-width: 480px){
+    
+}
+
+@media(max-width: 375px){
+    
+}
